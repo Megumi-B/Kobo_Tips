@@ -7,3 +7,10 @@
 [技巧](/Doc/技巧.md)<br>
 [推薦程式或插件](/Doc/推薦程式或插件.md)<br>
 [常見問題](/Doc/常見問題.md)<br>
+
+<hr>
+
+### 工具
+
+[Kobo Daily 99 清單](https://github.com/users/Megumi-B/projects/3/views/1)<br>
+[BW、Kobo、Pubu 折扣x點數表](https://docs.google.com/spreadsheets/d/1W9_gRPUMlY4wpHd8-nKyTy67EQsEN4JlMU7ToVTkJEc/edit#gid=1565248845)
