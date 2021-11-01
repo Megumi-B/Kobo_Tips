@@ -10,7 +10,8 @@
 
 <hr>
 
-### 工具
+### 工具/有用連結
 
-[Kobo Daily 99 清單](https://github.com/users/Megumi-B/projects/3/views/1)<br>
+[Kobo Blog 好讀書單](https://www.kobo.com/zh/blog/blog/%E5%A5%BD%E8%AE%80%E6%9B%B8%E5%96%AE)<br>
+[Kobo Daily 99](https://github.com/users/Megumi-B/projects/3/views/1)<br>
 [BW、Kobo、Pubu 折扣x點數表](https://docs.google.com/spreadsheets/d/1W9_gRPUMlY4wpHd8-nKyTy67EQsEN4JlMU7ToVTkJEc/edit#gid=1565248845)
