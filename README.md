@@ -18,6 +18,8 @@
 [最新漫畫](https://www.kobo.com/tw/zh/p/tw-comics-bestofmonth) | 可查看最新出版漫畫、針對漫畫的出版社優惠<br>
 [最新輕小說](https://www.kobo.com/tw/zh/p/tw-lightnovels-bestofmonth) | 可查看最新出版輕小說、針對輕小說的出版社優惠<br>
 [免費電子書](https://www.kobo.com/tw/zh/p/free-ebooks)<br>
+特價書籍 [GB 英國](https://www.kobo.com/gb/en/deals)、[US 美國](https://www.kobo.com/us/en/deals)、[AU 澳洲](https://www.kobo.com/au/en/deals)、[CA 加拿大](https://www.kobo.com/ca/en/deals) | 每日有分別£0.99、$1.99特價書<br>
+[]()<br>
 
 紀錄用<br>
 [Kobo Daily 99](https://github.com/users/Megumi-B/projects/3/views/1)<br>
