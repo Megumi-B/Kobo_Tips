@@ -23,6 +23,7 @@
 
 第三方資料：<br>
 [kobo 各地區特價書籍](https://kobo-promotion.herokuapp.com)<br>
+[Kobo一週99書單通知 - TG BOT](https://t.me/s/kobo_99_notifier)<br>
 
 紀錄用<br>
 [Kobo Daily 99](https://github.com/users/Megumi-B/projects/3/views/1)<br>
