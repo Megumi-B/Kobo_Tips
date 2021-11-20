@@ -18,7 +18,7 @@
 [最新漫畫](https://www.kobo.com/tw/zh/p/tw-comics-bestofmonth) | 可查看針對漫畫的出版社優惠<br>
 [最新輕小說](https://www.kobo.com/tw/zh/p/tw-lightnovels-bestofmonth) | 可查看針對輕小說的出版社優惠<br>
 [免費電子書](https://www.kobo.com/tw/zh/p/free-ebooks)<br>
-[Kobo Blog](https://www.kobo.com/zh/blog/blog/%E5%A5%BD%E8%AE%80%E6%9B%B8%E5%96%AE) | 可查看每月初公佈的特定出版社優惠、逢星期四有七日99書單<br>
+[Kobo Blog](https://prod-news.kobo.com/zh/blog) | 可查看每月初公佈的特定出版社優惠、逢星期四有七日99書單<br>
 特價書籍 [GB 英國](https://www.kobo.com/gb/en/deals)、[US 美國](https://www.kobo.com/us/en/deals)、[AU 澳洲](https://www.kobo.com/au/en/deals)、[CA 加拿大](https://www.kobo.com/ca/en/deals) | 每日有分別£0.99、$1.99等特價書<br>
 
 第三方資料：<br>
