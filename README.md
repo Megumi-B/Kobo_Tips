@@ -22,7 +22,7 @@
 特價書籍 [GB 英國](https://www.kobo.com/gb/en/deals)、[US 美國](https://www.kobo.com/us/en/deals)、[AU 澳洲](https://www.kobo.com/au/en/deals)、[CA 加拿大](https://www.kobo.com/ca/en/deals) | 每日有分別£0.99、$1.99等特價書<br>
 
 第三方資料：<br>
-[kobo 各地區特價書籍](https://kobo-promotion.herokuapp.com)<br>
+[Kobo 各地區特價書籍](https://kobo-promotion.herokuapp.com)<br>
 [Kobo一週99書單通知 - TG BOT](https://t.me/s/kobo_99_notifier)<br>
 
 紀錄用<br>
