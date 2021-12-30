@@ -14,7 +14,7 @@
 
 查看最新活動<br>
 官方資料：<br>
-<a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/tw-activities-bestofmonth">全站活動</a> | 可查看現有出版社優惠<br>
+全站活動 <a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/tw-activities-bestofmonth">當月</a> / <a target="_blank" rel="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/tw-activities-wkdsale">當週</a> | 可查看目前各類活動優惠<br>
 <a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/tw-comics-bestofmonth">最新漫畫</a> | 可查看針對漫畫的出版社優惠<br>
 <a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/tw-lightnovels-bestofmonth">最新輕小說</a> | 可查看針對輕小說的出版社優惠<br>
 <a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/free-ebooks">免費電子書</a> | 可查看免費的電子書<br>
