@@ -30,4 +30,4 @@
 <a target="_blank" ref="noreferrer noopener" href="https://docs.google.com/spreadsheets/d/1W9_gRPUMlY4wpHd8-nKyTy67EQsEN4JlMU7ToVTkJEc/">BW、Kobo、Pubu 折扣x點數表</a>
 
 iOS shortcut:<br>
-<a target="_blank" ref="noreferrer noopener" href="v">Kobo Links</a> | 集合Kobo特價等活動頁面連結，方便瀏覽<br>
+<a target="_blank" ref="noreferrer noopener" href="https://github.com/Megumi-B/Kobo_Tips/raw/main/Kobo%20Links.shortcut">Kobo Links</a> | 集合Kobo特價等活動頁面連結，方便瀏覽<br>
