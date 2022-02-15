@@ -17,6 +17,7 @@
 全站活動 <a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/tw-activities-bestofmonth">當月</a> / <a target="_blank" rel="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/tw-activities-wkdsale">當週</a> | 可查看目前各類活動優惠<br>
 <a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/tw-comics-bestofmonth">最新漫畫</a> | 可查看針對漫畫的出版社優惠<br>
 <a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/tw-lightnovels-bestofmonth">最新輕小說</a> | 可查看針對輕小說的出版社優惠<br>
+<a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/tw/zh/list/new-releases/WFz2JVYAj88O-QjT3eCM2Q">最新上架</a> | 可查看約一個月內上架的書籍<br>
 <a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/free-ebooks">免費電子書</a> | 可查看免費的電子書<br>
 <a target="_blank" ref="noreferrer noopener" href="https://prod-news.kobo.com/zh/blog">Kobo Blog</a> | 可查看每月初公佈的特定出版社優惠、逢星期四有七日99書單<br>
 特價書籍 <a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/gb/en/deals">GB 英國</a>、<a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/us/en/deals">US 美國</a>、<a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/au/en/deals">AU 澳洲</a>、<a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/ca/en/deals">CA 加拿大</a> | 每日有分別£0.99、$1.99等特價書<br>
