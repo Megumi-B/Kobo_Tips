@@ -21,6 +21,7 @@
 <a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/free-ebooks">免費電子書</a> | 可查看免費的電子書<br>
 <a target="_blank" ref="noreferrer noopener" href="https://prod-news.kobo.com/zh/blog">Kobo Blog</a> | 可查看每月初公佈的特定出版社優惠、逢星期四有七日99書單<br>
 特價書籍 <a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/gb/en/deals">GB 英國</a>、<a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/us/en/deals">US 美國</a>、<a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/au/en/deals">AU 澳洲</a>、<a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/ca/en/deals">CA 加拿大</a> | 每日有分別£0.99、$1.99等特價書<br>
+<a target="_blank" ref="noreferrer noopener" href="https://www.kobo.com/tw/zh/p/giftcards">電子書禮物卡</a> | 間中會有買指定金額禮物卡送點數活動<br>
 
 第三方資料：<br>
 <a target="_blank" ref="noreferrer noopener" href="https://kobo-promotion.herokuapp.com">Kobo 各地區特價書籍</a><br>
