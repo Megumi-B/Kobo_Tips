@@ -28,7 +28,7 @@
 <a target="_blank" ref="noreferrer noopener" href="https://t.me/s/kobo_99_notifier">Kobo一週99書單通知 - TG BOT</a><br>
 
 紀錄用<br>
-<a target="_blank" ref="noreferrer noopener" href="https://docs.google.com/spreadsheets/d/1-8mw6SrFUdSohKqSJOS9fS8n_-wNcKmxOIcLRKZoIHU/">Kobo Daily 99</a><br>
+<a target="_blank" ref="noreferrer noopener" href="https://docs.google.com/spreadsheets/d/1BLLe0KPApm14vXZxkgEILiG4VdKgob7pupO5J8XLxcw/">Kobo Daily 99</a><br>
 <a target="_blank" ref="noreferrer noopener" href="https://docs.google.com/spreadsheets/d/1W9_gRPUMlY4wpHd8-nKyTy67EQsEN4JlMU7ToVTkJEc/">BW、Kobo、Pubu 折扣x點數表</a>
 
 iOS shortcut:<br>
